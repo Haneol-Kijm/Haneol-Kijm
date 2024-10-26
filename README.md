@@ -39,7 +39,7 @@
 <div align="center">
   <a href="https://haneol-ai-lab.vercel.app/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Vercel&logoColor=white" /></a>&nbsp
   <a href="mailto:haneol.kijm@gmail.com"><img src="https://img.shields.io/badge/haneol.kijm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
-  <a href="#"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" onmouseover="this.src='https://img.shields.io/badge/haneol.kijm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white'" onmouseout="this.src='https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black'" /></a>&nbsp 
+  <a href="http://qr.kakao.com/talk/wQYaIhxL7q1jhDYtIEoPae7ueOg-"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"/></a>&nbsp 
 </div>
 
 <br>
