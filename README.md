@@ -55,6 +55,16 @@
 
 <div align="center">
   
+<h3 align="center">👀 Views 👀</h3>
+
+<img src="https://profile-counter.glitch.me/Haneol-Kijm/count.svg" width="240px" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
 <h3 align="center">📊 Github Stats 📊</h3>
 
 ![haneol log](https://github-readme-stats.vercel.app/api?username=Haneol-Kijm&theme=blueberry&show_icons=true)
