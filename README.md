@@ -1,5 +1,7 @@
 <!--타이틀 부분-->
-<img align='right' src="https://i.imgur.com/Kmkj4a4.jpeg" width="350" height="500" />
+<p align='right'>
+  <img align='right' src="https://i.imgur.com/Kmkj4a4.jpeg" width="350" height="500" />
+</p>
 <div align="left">
   <a href="https://git.io/typing-svg"><img align='left' src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=500&size=40&pause=1000&color=4285F4E3&center=true&vCenter=true&width=435&lines=Haneol's+Github;Welcome!" alt="이미지 설명"></a>&nbsp
 </div>
