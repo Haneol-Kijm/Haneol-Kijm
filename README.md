@@ -67,7 +67,8 @@
 <br>
 
 <div align="left">
-  
-<h3 align="left">📊 Github Stats 📊</h3>
-![haneol log](https://github-readme-stats.vercel.app/api?username=Haneol-Kijm&theme=blueberry&show_icons=true)
+    <h3 align="left">📊 Github Stats 📊</h3>
+    <p align='left'>
+        <img src="https://github-readme-stats.vercel.app/api?username=Haneol-Kijm&theme=blueberry&show_icons=true" />
+    </p>
 </div>
